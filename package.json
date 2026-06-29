@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Convert meeting data into an \"Add to Google Calendar\" URL for adding events on Android.",
   "type": "module",
+  "author": {
+    "name": "Dmytro Bilokhonov",
+    "email": "entwicklerberg@gmail.com"
+  },
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
