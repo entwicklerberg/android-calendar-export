@@ -5,3 +5,5 @@ dist
 .claude/
 .idea/
 .superpowers/
+graphify-out/
+readmy.txt
