@@ -7,6 +7,10 @@
     "name": "Dmytro Bilokhonov",
     "email": "entwicklerberg@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/entwicklerberg/android-calendar-export"
+  },
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
